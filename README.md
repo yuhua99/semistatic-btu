@@ -4,6 +4,10 @@ A 3D-printable ball transfer unit (BTU) for trackballs, inspired by [scatterthou
 
 It's designed to pair with the [efog.tech](https://efog.tech/) Endgame trackball.
 
+![Three semistatic BTUs next to a Bosch Rexroth BTU](images/semistatic-btu.jpg)
+
+*A Bosch Rexroth BTU (left) alongside three semistatic BTUs (right).*
+
 ## Design
 
 This BTU uses a **main / sub ball** design:
